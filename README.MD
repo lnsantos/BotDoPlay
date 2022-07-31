@@ -20,3 +20,6 @@ Run in your terminal the command `ts-node bot.ts`
     "typescript": "^4.7.4"
   }
 ```
+
+## *References*
+- [DiscordJS](https://discordjs.guide/creating-your-bot/creating-commands.html#command-deployment-script)  
